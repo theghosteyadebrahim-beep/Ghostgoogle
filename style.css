@@ -1,0 +1,33 @@
+.First{
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+.linkk{
+    text-align: center;
+}
+
+.youtube{
+    border: 2px solid black;
+    border-radius: 40px;
+}
+.facebook{
+    border: 2px solid black;
+    border-radius: 40px;
+}
+.instagram{
+    border: 2px solid black;
+    border-radius: 40px;
+}
+.whatsapp{
+    border: 2px solid black;
+    border-radius: 40px;
+}
+.profile{
+    border-radius: 50px;
+}
+.notebook{
+    color: white;
+    text-align: center;
+}
